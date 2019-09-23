@@ -1,0 +1,4 @@
+Sitemap: http://christophergoulet.com/sitemapindex.xml
+
+User-Agent: *
+Host: christophergoulet.com
