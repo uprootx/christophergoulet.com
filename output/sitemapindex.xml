@@ -6,6 +6,14 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://christophergoulet.com/authors/christopher-goulet.xml</loc>
+  <lastmod>2019-09-23T16:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://christophergoulet.com/authors/roberto-alsina.xml</loc>
+  <lastmod>2019-09-23T16:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://christophergoulet.com/categories/blog.xml</loc>
   <lastmod>2019-09-23T16:27:00Z</lastmod>
  </sitemap>
@@ -27,18 +35,18 @@
  </sitemap>
  <sitemap>
   <loc>https://christophergoulet.com/galleries/demo/rss.xml</loc>
-  <lastmod>2019-09-23T16:27:00Z</lastmod>
+  <lastmod>2019-09-23T17:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://christophergoulet.com/galleries/rss.xml</loc>
-  <lastmod>2019-09-23T16:27:00Z</lastmod>
+  <lastmod>2019-09-23T17:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://christophergoulet.com/rss.xml</loc>
-  <lastmod>2019-09-23T16:27:00Z</lastmod>
+  <lastmod>2019-09-23T16:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://christophergoulet.com/sitemap.xml</loc>
-  <lastmod>2019-09-23T16:27:00Z</lastmod>
+  <lastmod>2019-09-23T17:42:00Z</lastmod>
  </sitemap>
 </sitemapindex>

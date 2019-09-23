@@ -138,6 +138,10 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("https://github.com/fluxola", "Github"),
+        ("http://whatdothlife.com", "Music"),
+        ("https://cloud.uprootx.com", "Cloud"),
+        ("/self-hosted.html", "Self-Hosted"),
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS feed"),

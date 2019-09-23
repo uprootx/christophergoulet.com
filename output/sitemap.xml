@@ -7,15 +7,31 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://christophergoulet.com/</loc>
-  <lastmod>2019-09-23T16:01:00Z</lastmod>
+  <lastmod>2019-09-23T16:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/2012/</loc>
   <lastmod>2019-09-23T16:00:00Z</lastmod>
  </url>
  <url>
+  <loc>https://christophergoulet.com/2019/</loc>
+  <lastmod>2019-09-23T16:39:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://christophergoulet.com/archive.html</loc>
-  <lastmod>2019-09-23T16:27:00Z</lastmod>
+  <lastmod>2019-09-23T17:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://christophergoulet.com/authors/</loc>
+  <lastmod>2019-09-23T16:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://christophergoulet.com/authors/christopher-goulet/</loc>
+  <lastmod>2019-09-23T16:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://christophergoulet.com/authors/roberto-alsina/</loc>
+  <lastmod>2019-09-23T16:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/categories/</loc>
@@ -59,7 +75,7 @@
  </url>
  <url>
   <loc>https://christophergoulet.com/listings/hello.py.html</loc>
-  <lastmod>2019-09-23T16:27:00Z</lastmod>
+  <lastmod>2019-09-23T17:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/about-nikola/</loc>
@@ -116,6 +132,10 @@
  <url>
   <loc>https://christophergoulet.com/pages/theming/</loc>
   <lastmod>2019-09-23T16:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://christophergoulet.com/posts/on-your-marks/</loc>
+  <lastmod>2019-09-23T16:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/posts/welcome-to-nikola/</loc>
