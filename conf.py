@@ -226,7 +226,7 @@ POSTS = (
     ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("posts/*.md", "posts", "post.tmpl"),
+    ("pages/*.md", "posts", "page.tmpl"),
     ("pages/*.rst", "pages", "page.tmpl"),
     ("pages/*.txt", "pages", "page.tmpl"),
     ("pages/*.html", "pages", "page.tmpl"),
