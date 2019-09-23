@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://christophergoulet.com/archive.html</loc>
-  <lastmod>2019-09-23T19:32:00Z</lastmod>
+  <lastmod>2019-09-23T19:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/authors/</loc>
@@ -140,6 +140,14 @@
  <url>
   <loc>https://christophergoulet.com/posts/on-your-marks/</loc>
   <lastmod>2019-09-23T16:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://christophergoulet.com/posts/self-hosted/</loc>
+  <lastmod>2019-09-23T19:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://christophergoulet.com/posts/test/</loc>
+  <lastmod>2019-09-23T19:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/posts/welcome-to-nikola/</loc>
