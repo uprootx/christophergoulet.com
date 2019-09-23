@@ -6,39 +6,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://christophergoulet.com/categories/blog.xml</loc>
-  <lastmod>2019-09-23T16:00:00Z</lastmod>
+  <loc>https://christophergoulet.com/categories/blog.xml</loc>
+  <lastmod>2019-09-23T16:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://christophergoulet.com/categories/cat_nikola.xml</loc>
-  <lastmod>2019-09-23T16:00:00Z</lastmod>
+  <loc>https://christophergoulet.com/categories/cat_nikola.xml</loc>
+  <lastmod>2019-09-23T16:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://christophergoulet.com/categories/demo.xml</loc>
-  <lastmod>2019-09-23T16:01:00Z</lastmod>
+  <loc>https://christophergoulet.com/categories/demo.xml</loc>
+  <lastmod>2019-09-23T16:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://christophergoulet.com/categories/nikola.xml</loc>
-  <lastmod>2019-09-23T16:01:00Z</lastmod>
+  <loc>https://christophergoulet.com/categories/nikola.xml</loc>
+  <lastmod>2019-09-23T16:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://christophergoulet.com/categories/python.xml</loc>
-  <lastmod>2019-09-23T16:01:00Z</lastmod>
+  <loc>https://christophergoulet.com/categories/python.xml</loc>
+  <lastmod>2019-09-23T16:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://christophergoulet.com/galleries/demo/rss.xml</loc>
-  <lastmod>2019-09-23T16:08:00Z</lastmod>
+  <loc>https://christophergoulet.com/galleries/demo/rss.xml</loc>
+  <lastmod>2019-09-23T16:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://christophergoulet.com/galleries/rss.xml</loc>
-  <lastmod>2019-09-23T16:08:00Z</lastmod>
+  <loc>https://christophergoulet.com/galleries/rss.xml</loc>
+  <lastmod>2019-09-23T16:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://christophergoulet.com/rss.xml</loc>
-  <lastmod>2019-09-23T16:01:00Z</lastmod>
+  <loc>https://christophergoulet.com/rss.xml</loc>
+  <lastmod>2019-09-23T16:27:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://christophergoulet.com/sitemap.xml</loc>
-  <lastmod>2019-09-23T16:08:00Z</lastmod>
+  <loc>https://christophergoulet.com/sitemap.xml</loc>
+  <lastmod>2019-09-23T16:27:00Z</lastmod>
  </sitemap>
 </sitemapindex>
