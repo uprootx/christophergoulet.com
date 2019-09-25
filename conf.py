@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Christopher Goulet"  # (translatable)
-BLOG_TITLE = "christophergoulet.com"  # (translatable)
+BLOG_TITLE = "christopher goulet"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://christophergoulet.com/"
@@ -142,6 +142,8 @@ NAVIGATION_LINKS = {
         ("/pages/music", "Music"),
         ("https://cloud.uprootx.com", "Cloud"),
         ("/pages/self-hosting", "Self-Hosting"),
+        ("/pages/podcasts", "Podcasts"),
+
     ),
 }
 
