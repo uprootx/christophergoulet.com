@@ -139,12 +139,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("https://github.com/fluxola", "Github"),
-        ("http://whatdothlife.com", "Music"),
+        ("/pages/music", "Music"),
         ("https://cloud.uprootx.com", "Cloud"),
-        ("/self-hosted.html", "Self-Hosted"),
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/pages/self-hosting", "Self-Hosting"),
     ),
 }
 
@@ -929,7 +926,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a>  |  <a href="/archive.html">Archive</a>  |  <a href="/categories">Tags</a>   |  <a href="/rss.xml">RSS</a>  {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
