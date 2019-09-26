@@ -42,11 +42,15 @@
   <lastmod>2019-09-26T15:26:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://christophergoulet.com/galleries/whoami/rss.xml</loc>
+  <lastmod>2019-09-26T18:18:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://christophergoulet.com/rss.xml</loc>
   <lastmod>2019-09-26T15:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://christophergoulet.com/sitemap.xml</loc>
-  <lastmod>2019-09-26T15:26:00Z</lastmod>
+  <lastmod>2019-09-26T18:18:00Z</lastmod>
  </sitemap>
 </sitemapindex>
