@@ -138,11 +138,13 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/pages/whoami", "Who Am I"),        
         ("https://github.com/fluxola", "Github"),
         ("/pages/music", "Music"),
         ("https://cloud.uprootx.com", "Cloud"),
         ("/pages/self-hosting", "Self-Hosting"),
         ("/pages/podcasts", "Podcasts"),
+        ("/pages/resume", "Resume"),
 
     ),
 }

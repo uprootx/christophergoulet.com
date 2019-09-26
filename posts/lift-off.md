@@ -5,4 +5,4 @@ type: text
 
 ## Re-launching... everything
 
-It's a whole new start
+It's a whole new start. Finally getting my online life situated and streamlined. I've been busy filling out the content on this site, but stay tuned for more blogging.
