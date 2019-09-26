@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://christophergoulet.com/</loc>
-  <lastmod>2019-09-26T15:06:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/2012/</loc>
@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>https://christophergoulet.com/2019/</loc>
-  <lastmod>2019-09-26T15:03:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/archive.html</loc>
-  <lastmod>2019-09-26T15:03:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/authors/</loc>
@@ -35,7 +35,7 @@
  </url>
  <url>
   <loc>https://christophergoulet.com/categories/</loc>
-  <lastmod>2019-09-26T15:03:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/categories/blog/</loc>
@@ -59,23 +59,23 @@
  </url>
  <url>
   <loc>https://christophergoulet.com/galleries/</loc>
-  <lastmod>2019-09-26T15:03:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/galleries/demo/</loc>
-  <lastmod>2019-09-26T15:03:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/listings/</loc>
-  <lastmod>2019-09-26T15:03:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/listings/__pycache__/</loc>
-  <lastmod>2019-09-26T15:03:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/listings/hello.py.html</loc>
-  <lastmod>2019-09-26T15:03:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/about-nikola/</loc>
@@ -115,7 +115,7 @@
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/music/</loc>
-  <lastmod>2019-09-26T15:03:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/path-handlers/</loc>
@@ -123,7 +123,7 @@
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/podcasts/</loc>
-  <lastmod>2019-09-26T15:03:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/quickref/</loc>
@@ -135,7 +135,7 @@
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/resume/</loc>
-  <lastmod>2019-09-26T15:06:00Z</lastmod>
+  <lastmod>2019-09-26T14:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/self-hosted/</loc>
@@ -143,7 +143,7 @@
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/self-hosting/</loc>
-  <lastmod>2019-09-26T15:03:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/social_buttons/</loc>
@@ -159,11 +159,11 @@
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/whoami/</loc>
-  <lastmod>2019-09-26T15:06:00Z</lastmod>
+  <lastmod>2019-09-26T14:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/posts/lift-off/</loc>
-  <lastmod>2019-09-26T15:03:00Z</lastmod>
+  <lastmod>2019-09-26T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/posts/on-your-marks/</loc>
