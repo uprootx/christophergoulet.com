@@ -5,4 +5,4 @@ type: text
 
 ## Christopher Cyrus Goulet
 
-Geek, Lover, 
+Geek, Lover, DogDad, Pal.
