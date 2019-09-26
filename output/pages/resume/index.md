@@ -3,10 +3,6 @@ slug: resume
 date: 2019-09-26 11:23:33 UTC-04:00
 type: text
 
-title: Resume
-slug: resume
-date: 2019-09-26 09:33:32 UTC-04:00
-type: text
 
 # Skills
 
