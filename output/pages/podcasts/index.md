@@ -7,7 +7,7 @@ Podcasts I make/contribute to/ have appeared in...
 
 # Shiny Podcast
 
-- creator, co-host
+- co-creator, co-host
 
 **Following the light and throwing a little shade on the latest and greatest in gaming and technology...**
 

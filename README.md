@@ -1,7 +1,7 @@
 # christophergoulet.com
 
 
-This folder contains the source used to generate a static site using Nikola.
+This folder contains the source used to generate a static site using [Nikola.](http://getnikola.com)
 
 Configuration file for the site is ```conf.py```.
 
