@@ -145,6 +145,8 @@ NAVIGATION_LINKS = {
         ("/pages/self-hosting", "Self-Hosting"),
         ("/pages/podcasts", "Podcasts"),
         ("/pages/resume", "Resume"),
+        ("/pages/press", "Press"),
+
 
     ),
 }
