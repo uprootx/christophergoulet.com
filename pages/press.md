@@ -17,4 +17,4 @@ type: text
 
 ## 2017
 
-["New Album Darkens The Pilgrims’ Sunny Garage Rock" by David Corriveau, Valley News](https://www.vnews.com/30-Something-Rockers-Enjoying-Musical-Pilgrimage-7893560)
+["New Album Darkens The Pilgrims’ Sunny Garage Rock" by David Corriveau, Valley News](https://www.vnews.com/30-Something-Rockers-Enjoying-Musical-Pilgrimage-7893560)  *Warning: Paywall!*
