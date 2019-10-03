@@ -21,4 +21,4 @@ To check all available commands::
 
 One-liner to build (or whatever) the site:
 
-``` docker run --rm -ti -v /home/christopher/gitlab/christophergoulet.com:/nikola dragas/nikola nikola build```
+``` docker run --rm -ti --user 1000:1000 -v $(pwd):/nikola dragas/nikola nikola command```
