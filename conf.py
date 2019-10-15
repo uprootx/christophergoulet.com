@@ -142,7 +142,7 @@ NAVIGATION_LINKS = {
         ("https://github.com/fluxola", "Github"),
         ("/pages/music", "Music"),
         ("https://cloud.uprootx.com", "Cloud"),
-        ("https://gitlab.uprootx.com", "Gitlab"),        
+        ("https://gitlab.uprootx.com/goulet", "Gitlab"),        
         ("/pages/self-hosting", "Self-Hosting"),
         ("/pages/podcasts", "Podcasts"),
         ("/pages/resume", "Resume"),
