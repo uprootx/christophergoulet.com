@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://christophergoulet.com/archive.html</loc>
-  <lastmod>2019-10-15T04:34:00Z</lastmod>
+  <lastmod>2019-10-26T06:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/authors/</loc>
@@ -79,7 +79,7 @@
  </url>
  <url>
   <loc>https://christophergoulet.com/listings/hello.py.html</loc>
-  <lastmod>2019-10-15T04:34:00Z</lastmod>
+  <lastmod>2019-10-26T06:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/about-nikola/</loc>
@@ -176,6 +176,10 @@
  <url>
   <loc>https://christophergoulet.com/posts/lift-off/</loc>
   <lastmod>2019-10-03T00:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://christophergoulet.com/posts/new-canonical-email/</loc>
+  <lastmod>2019-10-26T06:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/posts/on-your-marks/</loc>

@@ -24,8 +24,8 @@ SITE_URL = "https://christophergoulet.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://christophergoulet.com/"
-BLOG_EMAIL = "chris@uproot.tech"
-BLOG_DESCRIPTION = "My HyperText"  # (translatable)
+BLOG_EMAIL = "me@chirstophergoulet.com"
+BLOG_DESCRIPTION = "My HyperText, etc"  # (translatable)
 
 # Nikola is multilingual!
 #
