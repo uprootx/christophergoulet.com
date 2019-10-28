@@ -143,7 +143,7 @@ NAVIGATION_LINKS = {
         ("/pages/music", "Music"),
         ("https://cloud.uprootx.com", "Cloud"),
         ("https://gitlab.uprootx.com/goulet", "Gitlab"),        
-        ("/pages/self-hosting", "Self-Hosting"),
+        ("/pages/diy", "DIY"),
         ("/pages/podcasts", "Podcasts"),
         ("/pages/resume", "Resume"),
         ("/pages/press", "Press"),
