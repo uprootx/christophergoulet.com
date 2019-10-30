@@ -5,13 +5,15 @@ type: text
 
 ## 2019
 
+["Vermonters Create Creepy Podcasts" by Dan Bolles, Seven Days](https://m.sevendaysvt.com/vermont/vermonters-create-creepy-podcasts-pulp-from-beyond-the-veil-and-these-dark-mountains/Content?oid=28807157)
+
 ["Oh, won’t you take me to – Wotown!" by Taylor K. Long, Junction Magazine](https://junctionmagazine.com/wotown)
 
 ["Farmers Exchange to host music festival" by Patrick Adrian, Eagle Times](https://www.eagletimes.com/news/farmers-exchange-to-host-music-festival/article_285edb64-2eda-5aab-86c0-300db045e21d.html)
 
 ["The Windsor Farmers Exchange: It's a thing" by Patrick Adrian, Eagle Times](https://www.eagletimes.com/news/the-windsor-farmers-exchange-it-s-a-thing/article_59c4a634-819a-5bc3-8ce2-c4e95f6e8f7f.html)
 
-["Album Review: The Jobz 'DIE'" by Justin BOland, Seven Days](https://www.sevendaysvt.com/vermont/the-jobz-die/Content?oid=24988989)
+["Album Review: The Jobz 'DIE'" by Justin Boland, Seven Days](https://www.sevendaysvt.com/vermont/the-jobz-die/Content?oid=24988989)
 
 ## 2018
 
