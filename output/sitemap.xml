@@ -7,70 +7,74 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://christophergoulet.com/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-11-09T14:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/2019/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-11-09T14:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/archive.html</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-11-09T14:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/categories/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-11-09T14:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/listings/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-11-09T14:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/diy/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-10-28T13:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/music/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-10-03T00:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/podcasts/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-10-03T00:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/press/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-11-09T14:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/resume/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-10-03T00:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/self-hosting/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-11-09T14:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/pages/whoami/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-10-03T00:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/posts/keyscrape/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-10-03T00:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/posts/lift-off/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-10-03T00:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/posts/new-canonical-email/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-11-09T14:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/posts/pulp-from-beyond-the-veil-in-seven-days/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-11-09T14:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://christophergoulet.com/posts/wotown/</loc>
-  <lastmod>2019-10-30T18:53:00Z</lastmod>
+  <lastmod>2019-10-03T00:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://christophergoulet.com/posts/yes/</loc>
+  <lastmod>2019-11-09T14:49:00Z</lastmod>
  </url>
 </urlset>
