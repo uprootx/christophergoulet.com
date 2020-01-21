@@ -20,7 +20,7 @@ I think it's worth the effort for town government to reach out and communicate d
 I think it's worth the effort to go out of your way to listen to how your neighbors are doing. 
 I think it's worth the effort, because the impact and force of the work we do is multiplied exponentially when we actually work together.
 
-The power is the people, always has and always will be. You want to turn raw energy in usable power? Then you must understand the the engine, take care of it, and give it what it needs to accelerate.
+You want to turn raw energy in usable power? Then you must understand the the engine, take care of it, and give it what it needs to accelerate.
 
 In order to truly capitilize on our renewed energy, I believe we must *put in* energy and be active facilitators of coordinated effort.
 We absolutely can have a strong, affordable, safe and resilient town that is home for neighbors old and new. We do. It's awesome. Let's keep it going together.
