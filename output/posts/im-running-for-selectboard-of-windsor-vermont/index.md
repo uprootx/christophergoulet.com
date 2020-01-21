@@ -19,9 +19,9 @@ This is not free, all of this is made manifest by the hearts and hard work of th
 
 For decades Windsor has been defined by what we lack and what we've lost. I think it's time to take control of our message and define ourselves. 
 
-I think it's worth the effort for town government to reach out and communicate directly with people.
-I think it's worth the effort to go out of your way to listen to how your neighbors are doing. 
-I think it's worth the effort, because the impact and force of the work we do is multiplied exponentially when we actually work together.
+- I think it's worth the effort for town government to reach out and communicate directly with people.
+- I think it's worth the effort to go out of your way to listen to how your neighbors are doing. 
+- I think it's worth the effort, because the impact and force of the work we do is multiplied exponentially when we actually work together.
 
 You want to turn raw energy in usable power? Then you must understand the the engine, take care of it, and give it what it needs to accelerate.
 
