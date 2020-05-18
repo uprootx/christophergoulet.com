@@ -5,7 +5,7 @@ type: text
 
 ## Christopher Cyrus Goulet
 
-Geek, Lover, PetDad, Pal.
+Geek, Lover, Dad, Pal.
 
 [me@christophergoulet.com](mailto:me@christophergoulet.com)
 

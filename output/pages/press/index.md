@@ -3,6 +3,10 @@ slug: press
 date: 2019-10-02 16:03:26 UTC-04:00
 type: text
 
+## 2020
+
+["Windsor Live"](https://canceredplans.substack.com/p/windsor-live)
+
 ## 2019
 
 ["Vermonters Create Creepy Podcasts" by Dan Bolles, Seven Days](https://m.sevendaysvt.com/vermont/vermonters-create-creepy-podcasts-pulp-from-beyond-the-veil-and-these-dark-mountains/Content?oid=28807157)

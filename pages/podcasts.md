@@ -5,6 +5,15 @@ type: text
 
 Podcasts I make/contribute to/ have appeared in...
 
+# Windsor Live
+
+- creator, co-host
+
+**News, events, happenings, goings on, analysis, opinion, conversation, dialog, interviews, disagreements, agreements, ruminations, pontifications, exclamations and salutations from the wonderful community of Windsor, Vermont.**
+
+[<img src="/images/WLlogo.jpg">](https://windsorlive.net)
+
+
 # Shiny Podcast
 
 - co-creator, co-host
@@ -16,7 +25,7 @@ Podcasts I make/contribute to/ have appeared in...
 
 # Pulp from Beyond the Veil!
 
-- regular contributer: voice actor, audio engineering
+- regular contributer: voice actor, audio engineering, Producer
 
 **"This podcast serves as an homage, a relic of a memory, to those rough pulp sci-fi and horror magazines of yesteryear, and thus we strive to bring you unique--and sometimes unexpected--content. " - Cody Sullivan, producer**
 
