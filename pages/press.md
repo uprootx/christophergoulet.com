@@ -7,6 +7,8 @@ type: text
 
 ["Windsor Live"](https://canceredplans.substack.com/p/windsor-live)
 
+[Jim Kenyon: Windsor Selectboard puts pledge on the edge](https://www.vnews.com/Windsor-Selectboard-Debates-Shelving-the-Pledge-35038674)
+
 ## 2019
 
 ["Vermonters Create Creepy Podcasts" by Dan Bolles, Seven Days](https://m.sevendaysvt.com/vermont/vermonters-create-creepy-podcasts-pulp-from-beyond-the-veil-and-these-dark-mountains/Content?oid=28807157)
