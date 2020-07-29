@@ -9,6 +9,8 @@ type: text
 
 [Jim Kenyon: Windsor Selectboard puts pledge on the edge](https://www.vnews.com/Windsor-Selectboard-Debates-Shelving-the-Pledge-35038674)
 
+[Windsor Selectboard nixes Pledge of Allegiance](https://www.eagletimes.com/news/windsor-selectboard-nixes-pledge-of-allegiance/article_313425fa-afaa-50d6-8813-a379bb410762.html)
+
 ## 2019
 
 ["Vermonters Create Creepy Podcasts" by Dan Bolles, Seven Days](https://m.sevendaysvt.com/vermont/vermonters-create-creepy-podcasts-pulp-from-beyond-the-veil-and-these-dark-mountains/Content?oid=28807157)
