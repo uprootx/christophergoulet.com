@@ -11,6 +11,8 @@ type: text
 
 [Windsor Selectboard nixes Pledge of Allegiance](https://www.eagletimes.com/news/windsor-selectboard-nixes-pledge-of-allegiance/article_313425fa-afaa-50d6-8813-a379bb410762.html)
 
+[Selectboard Votes to stop Pledge of Allegiance](https://www.wcax.com/2020/07/29/select-board-votes-to-stop-pledge-of-allegiance/)
+
 ## 2019
 
 ["Vermonters Create Creepy Podcasts" by Dan Bolles, Seven Days](https://m.sevendaysvt.com/vermont/vermonters-create-creepy-podcasts-pulp-from-beyond-the-veil-and-these-dark-mountains/Content?oid=28807157)
