@@ -7,8 +7,11 @@ type: text
 # Skills
 
   * Fantastic Interpersonal and Customer Service Skills
-  * Full-Time Ubuntu Linux user on server and desktop with occasional Debian, CentOS, RHEL, and Alpine
-  * Linux Adminstrator with knowledge of BASH scripting, service management with systemd
+  * Full-Time Ubuntu Linux user on server *and* desktop with occasional Debian, CentOS, RHEL, and Alpine
+  * Linux Systems Adminstrator
+  * Proficient in BASH scripting
+  * Lover of systemd
+  * Knows when to use containers, and when not to
   * Management of Public Cloud infrastructure on DigitalOcean, AWS, and Google Cloud Platform
   * Extensive experience in Virtualization technology and management with KVM/QEMU, libvirtd, bhyve(BSD)
   * Passionate about data storage and integrity: ZFS, FreeNAS, rsync and rclone
@@ -21,15 +24,19 @@ type: text
   * Electronic repair and soldering
   * Designer and Installer of Custom High-End Home and Professional Audio Systems
   * Experience in Web technologies such as HTML, CSS, and Javascript frameworks such as React and Meteor
-  * Able to troubleshoot and support all Major modern Operating Systems: Windows, macOS, chromeOS, iOS, Android and desktop Linux
+  * Able to troubleshoot and support all Major modern Operating Systems: Windows, macOS, chromeOS, iOS, Android and even desktop Linux
   * Excellent Problem Solving, Troubleshooting and Repair Skills
   * Patience and empathy and understanding of other's technology and business problems
 
 # Experience
 
-**Systems Administrator at Kerflummox Capital LLC November 2018 - Present**
+**Systems Administrator at Kerflummox Capital LLC/Bema Technologies November 2018 - Present**
 
-  * Responsible for self-hosting Kerflummox's technology services on premises and in the cloud
+  * Designed and maintains the company's Infrastructure-as-Code system in Terraform and Ansible, currently in use by development team
+  * Increased fleet resiliency and security and simplified deployments with Docker Swarm
+  * Implemented CI/CD pipeline and trained the development team in its use
+  * Wrote custom Terraform modules for unique customer use-cases
+  * Responsible for maintaining all company's technology services on premises and in the cloud
   * Maintained and supported company's Ubuntu Linux workstations and laptops
   * Provided direct IT support for Developer Team running Ubuntu Linux
   * Architected the transition from expensive hosting services to self-hosting infrastructure on the public cloud

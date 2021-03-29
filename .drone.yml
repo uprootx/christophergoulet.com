@@ -1,0 +1,29 @@
+---
+  ######
+  ### INIT
+  ######
+  
+    kind: pipeline
+    type: docker
+    name: christophergoulet.com
+
+  ######
+  ### PIPELINE
+  ######  
+    steps:
+      - name: build
+        image: dragas/nikola
+        commands:
+          - "nikola build"
+        when:
+          branch: master
+
+      - name: deploy
+        image: docker-git
+        environment:
+          SSH_PRIVATE_KEY:
+            from_secret: ssh_private_key
+          SSH_PUBLIC_KEY: 
+            from_secret: ssh_public_key
+          
+          
