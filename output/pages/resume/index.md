@@ -43,7 +43,7 @@ type: text
   * Retooled the development process to use proper git-flow and modern deployment practices
   * Instrumented the use of Docker and Dokku for development process
   * Developed new monitoring paradigm for company products using Prometheus, AlertMan, and Grafana
-  * Constructed centralized log management solution using Red Hat's Cockpit
+  * Constructed centralized log management solution using Red Hat's Cockpit and Graylog
   * Maintained Linux Server fleet with Ansible configuration management
   * Created training materials and lead training for new hires in company technology services
   * Envisioned and formed company IT department structure including writing department policies and adminstrating the ticket system
